@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1395093659 source:c:\users\dxs\documents\maths\main.cpp
+	<iostream>
+	<fstream>
+	"basic.h"
+
+1395094859 c:\users\dxs\documents\maths\include\basic.h
+
+1395095687 source:c:\users\dxs\documents\maths\src\basic.cpp
+	"basic.h"
+
+1395095694 source:c:\users\dxs\documents\github\maths\main.cpp
+	<iostream>
+	<fstream>
+	"basic.h"
+
