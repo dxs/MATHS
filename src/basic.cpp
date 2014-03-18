@@ -5,12 +5,15 @@ int basic::factorielle(int x)
     return((x<=0) ? 1 : x*factorielle(x-1));
 }
 
-int basic::somme(int from, int to)
+float basic::somme(int to, int from)
 {
-    int somme = 0;
-    for(from; from <= to; from++)
+    float p = 0;
+    int i;
+    for(i = from; i <= to; i++)
     {
-
+        p = p + (i+2);
     }
-    return somme;
+    return p;
 }
+
+

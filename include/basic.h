@@ -6,9 +6,10 @@ class basic
 {
     public:
         static int factorielle(int x);
-        static int somme(int x, int y);
+        static float somme(int x, int y);
     protected:
     private:
+
 };
 
 #endif // BASIC_H

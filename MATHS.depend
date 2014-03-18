@@ -14,3 +14,19 @@
 	<fstream>
 	"basic.h"
 
+1395131295 source:/Users/sven.borden/MATHS/main.cpp
+	<iostream>
+	<fstream>
+	"basic.h"
+	"Exercices.h"
+
+1395130240 /Users/sven.borden/MATHS/include/basic.h
+
+1395130248 source:/Users/sven.borden/MATHS/src/basic.cpp
+	"basic.h"
+
+1395131118 /Users/sven.borden/MATHS/include/Exercices.h
+
+1395131074 source:/Users/sven.borden/MATHS/src/Exercices.cpp
+	"Exercices.h"
+
